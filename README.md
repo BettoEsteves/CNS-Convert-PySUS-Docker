@@ -293,8 +293,8 @@ pip install -r requirements.txt --upgrade
 
 ## 👥 Autores
 
-- **Carolina Jacoby** - Pesquisadora
-- **Betto Esteves** - Desenvolvedor Principal ([GitHub](https://github.com/BettoEsteves))
+- **Carolina Jacoby** - Pesquisadora / Desenvolvedor
+- **Betto Esteves** - Desenvolvedor ([GitHub](https://github.com/BettoEsteves))
 - **Claude Code (Sonnet 4.5)** - Assistente de Desenvolvimento IA
 
 ## 🙏 Créditos
