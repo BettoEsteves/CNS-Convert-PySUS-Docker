@@ -1,0 +1,27 @@
+# SIA APAC Medicamentos - Dependências Python
+# Instalação: pip install -r requirements.txt
+
+# Data Processing
+pandas>=2.2.2
+numpy>=1.26.4
+pyarrow>=14.0.0
+
+# Database
+dbfread>=2.0.7
+
+# Visualization
+matplotlib>=3.9.0
+seaborn>=0.13.0
+
+# Excel Support
+openpyxl>=3.1.0
+
+# Network
+requests>=2.31.0
+urllib3>=2.0.0
+certifi>=2024.0.0
+
+# Utilities
+python-dateutil>=2.9.0
+pytz>=2024.0
+pathlib2>=2.3.0
