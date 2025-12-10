@@ -2,6 +2,8 @@
 
 Sistema completo para download, processamento e validação de dados do SIA/DATASUS com foco em APAC Medicamentos, incluindo validação de CNS (Cartão Nacional de Saúde) conforme especificação e-SUS.
 
+# Versão 1.0
+
 ## ✨ Características
 
 - ⬇️ Download automático de arquivos DBC do DATASUS via FTP
@@ -290,6 +292,13 @@ pip install -r requirements.txt --upgrade
 - **pyreaddbc**: Leitura de arquivos DBC
 - **pandas**: Manipulação de dados
 - **tkinter**: Interface gráfica
+
+### Telas
+<img width="1917" height="1008" alt="image" src="https://github.com/user-attachments/assets/8d466ddf-90f6-48ac-8442-ffafbb84235a" />
+
+
+<img width="1913" height="1021" alt="image" src="https://github.com/user-attachments/assets/b67d62aa-7913-4c8c-b008-ce732b67b8fd" />
+
 
 ## 👥 Autores
 
