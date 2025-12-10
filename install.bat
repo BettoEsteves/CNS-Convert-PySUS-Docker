@@ -83,7 +83,7 @@ if %ERRORLEVEL% EQU 0 (
     echo    pip install -r requirements.txt
     echo.
     echo 4. Executar o sistema:
-    echo    python sia_v5_claude.py
+    echo    python SIA_Conv_CNS.py
     echo.
     echo ========================================
 ) else (
