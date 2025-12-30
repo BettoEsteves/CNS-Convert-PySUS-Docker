@@ -311,6 +311,22 @@ pip install -r requirements.txt --upgrade
 Este projeto utiliza e agradece às seguintes bibliotecas de código aberto:
 
 - **PySUS** - Equipe AlertaDengue: https://github.com/AlertaDengue/PySUS
+```batch
+@software{flavio_codeco_coelho_2021_4883502,
+  author       = {Flávio Codeço Coelho and
+                  Bernardo Chrispim Baron and
+                  Gabriel Machado de Castro Fonseca and
+                  Pedro Reck and
+                  Daniela Palumbo},
+  title        = {AlertaDengue/PySUS: Vaccine},
+  month        = may,
+  year         = 2021,
+  publisher    = {Zenodo},
+  version      = {0.5.17},
+  doi          = {10.5281/zenodo.4883502},
+  url          = {https://doi.org/10.5281/zenodo.4883502}
+}
+```
   - Biblioteca Python para acesso aos dados do DATASUS
   - Essencial para download e processamento de dados do SIA/SUS
 
